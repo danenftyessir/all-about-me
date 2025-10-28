@@ -4,46 +4,60 @@ Bagian ini berisi evaluasi terhadap portofolio UTS (UTS-1 s/d UTS-4) berdasarkan
 
 ## Unduh Lembar Skor Lengkap
 
-Rekapitulasi skor kuantitatif dari *Self-Assessment* dan *Peer-Assessment* akan tersedia dalam format CSV di bawah ini setelah penilaian selesai.
+Rekapitulasi skor kuantitatif dari *Self-Assessment* dan *Peer-Assessment* tersedia dalam format CSV di bawah ini, mengikuti template `Lembar Skor`.
 
-* **[Unduh Lembar Skor Lengkap (Self + Peer)](./Lembar_Skor_Lengkap.csv)** *(File ini akan dibuat nanti setelah penilaian)*
+* **[Unduh Lembar Skor Lengkap (Self + Peer)](./Lembar_Skor_Lengkap.csv)**
 
 ---
 
 ## 1. Self-Assessment (Danendra Shafi Athallah - 13523136)
 
-*(Bagian ini perlu diisi oleh Danendra setelah portofolionya lengkap. Dia perlu menilai UTS-1 s/d UTS-4 nya sendiri menggunakan rubrik, memberikan skor, alasan singkat, dan saran perbaikan untuk dirinya sendiri, mirip contoh portofolio Anda).*
+Berikut adalah hasil penilaian terhadap portofolio saya sendiri (`https://danenftyessir.github.io/all-about-me/`).
 
 ### 1.1 Tinjauan Umum & Skor Ringkas
-* UTS-1: ... Skor: ...
-* UTS-2: ... Skor: ...
-* UTS-3: ... Skor: ...
-* UTS-4: ... Skor: ...
+
+* **UTS-1 (All About Me)**: Memperkenalkan diri dengan fakta unik (takut sukses solo), hobi, dan prinsip hidup (pilihan PTN). **Skor: 15/20 (75%)**.
+* **UTS-2 (My Songs for You)**: Menggunakan lagu Air Supply "I Can Wait Forever" dengan embed video dan narasi makna personal. *Lirik tidak disertakan.* **Skor: 13/20 (65%)**.
+* **UTS-3 (My Stories for You)**: Menceritakan momen "Aha!" hari pertama sekolah dan pergeseran dari ego ke sosial. **Skor: 18/20 (90%)**.
+* **UTS-4 (My SHAPE)**: Menyajikan analisis S-H-A-P-E (VIA, ENFJ-T, Values) dengan refleksi dan Piagam Diri. *Bagian Aptitudes masih kosong.* **Skor: 19/20 (95%)**.
 
 ### 1.2 Penilaian UTS-5 (Self-Assessment ini)
-* Skor per kriteria: ...
-* Alasan singkat: ...
+
+**Skor per kriteria:** Pemahaman Konsep **5**, Analisis Kritis **4**, Argumentasi (Logos) **4**, Etos & Empati **4**, Rekomendasi **4** → **Total 21/25 (84%)**.
+**Alasan singkat:** Telah berhasil melakukan Self-Assessment dan Peer-Assessment sesuai format, menunjukkan pemahaman konsep, analisis, dan memberikan rekomendasi.
 
 ### 1.3 Saran Perbaikan untuk Diri Sendiri
-* ...
+*(Diambil dari file `My_Personal_Reviews/index.qmd` Danendra)*
+1.  **Lengkapi UTS-2:** Tambahkan transkrip lirik lagu "I Can Wait Forever".
+2.  **Lengkapi UTS-4:** Isi bagian Aptitudes (Bakat & Keterampilan).
 
 ---
 
 ## 2. Peer-Assessment
+*(Diambil dari file `My_Personal_Reviews/index.qmd` Danendra)*
 
-*(Bagian ini perlu diisi oleh Danendra setelah dia menilai portofolio 2-3 temannya. Dia perlu mencantumkan Nama/NIM teman, URL portofolio, tinjauan umum, kekuatan utama, skor rata-rata per UTS, dan saran perbaikan, mirip contoh portofolio Anda).*
+### 2.1 Penilaian untuk: M. Abizzar Gamadrian (13523155)
+* **URL Portofolio:** https://abizzarg.github.io/all-about-me/
+* **Tinjauan Umum:** Portofolio secara keseluruhan sangat baik dan personal. Setiap bagian terasa otentik dan saling terhubung dengan baik, terutama melalui tema "staying down".
+* **Kekuatan Utama:** Orisinalitas cerita (UTS-1, UTS-3), Kedalaman analisis diri (UTS-4), Kelengkapan konten (UTS-2).
+* **Skor Rata-Rata:** UTS1: 4.75, UTS2: 3.75, UTS3: 5.0, UTS4: 5.0.
+* **Saran Perbaikan:**
+    * **UTS-2 (Humor):** Skor humor rendah karena lagunya sentimental, ini wajar. Tidak ada saran perbaikan signifikan.
+    * **UTS-4 (Visual):** Mungkin bisa ditambahkan tabel ringkasan SHAPE untuk visualisasi cepat.
 
-### 2.1 Penilaian untuk: [Nama Teman 1] ([NIM Teman 1])
-* URL Portofolio: ...
-* Tinjauan Umum: ...
-* Kekuatan Utama: ...
-* Skor Rata-Rata: ...
-* Saran Perbaikan: ...
+### 2.2 Penilaian untuk: Oxana Viyory (18224103)
+* **URL Portofolio:** https://oxanovijk.github.io/18224103-kominter/
+* **Tinjauan Umum:** Portofolio sangat rapi, naratif, dan visualnya menarik (foto-foto). Setiap bagian ditulis dengan mendalam dan mengalir dengan baik.
+* **Kekuatan Utama:** Keterlibatan pembaca (storytelling kuat), Kelengkapan dan kedalaman analisis (UTS-4), Inspirasi (UTS-2, UTS-3).
+* **Skor Rata-Rata:** UTS1: 4.5, UTS2: 4.0, UTS3: 5.0, UTS4: 5.0.
+* **Saran Perbaikan:**
+    * Portofolio sudah sangat baik. Mungkin bisa ditambahkan sedikit sentuhan humor ringan di UTS-1 jika memungkinkan, tapi ini sangat minor.
 
-### 2.2 Penilaian untuk: [Nama Teman 2] ([NIM Teman 2])
-* URL Portofolio: ...
-* (dst...)
-
-### 2.3 Penilaian untuk: [Nama Teman 3] ([NIM Teman 3]) - Opsional
-* URL Portofolio: ...
-* (dst...)
+### 2.3 Penilaian untuk: Alfiyyah Zahra W (13523028)
+* **URL Portofolio:** https://fifiyy.github.io/all-about-me/
+* **Tinjauan Umum:** Portofolio menunjukkan kepribadian yang jelas melalui cerita hobi dan perjuangan masuk SMA. Analisis SHAPE juga cukup baik.
+* **Kekuatan Utama:** Keterlibatan (detail hobi di UTS-1), Keautentikan (UTS-4), Pengembangan Narasi (UTS-3).
+* **Skor Rata-Rata:** UTS1: 3.75, UTS2: 3.25, UTS3: 4.25, UTS4: 4.5.
+* **Saran Perbaikan:**
+    * **UTS-2 (Kelengkapan):** Sangat disarankan menambahkan lirik lagu "My Universe" agar pesannya bisa dinilai utuh dan skor Inspirasi bisa maksimal.
+    * **UTS-1 & UTS-3 (Wawasan/Inspirasi):** Tambahkan 1-2 kalimat refleksi di akhir cerita untuk memperkuat pesan/pelajaran yang didapat.

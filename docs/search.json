@@ -54,7 +54,7 @@
     "href": "My_Personal_Reviews/index.html",
     "title": "5  UTS-5 My Personal Reviews",
     "section": "",
-    "text": "5.1 Unduh Lembar Skor Lengkap\nBagian ini berisi evaluasi terhadap portofolio UTS (UTS-1 s/d UTS-4) berdasarkan rubrik yang telah ditentukan. Evaluasi ini mencakup Self-Assessment (penilaian terhadap karya sendiri) dan Peer-Assessment (penilaian terhadap karya rekan mahasiswa).\nRekapitulasi skor kuantitatif dari Self-Assessment dan Peer-Assessment akan tersedia dalam format CSV di bawah ini setelah penilaian selesai.",
+    "text": "5.1 Unduh Lembar Skor Lengkap\nBagian ini berisi evaluasi terhadap portofolio UTS (UTS-1 s/d UTS-4) berdasarkan rubrik yang telah ditentukan. Evaluasi ini mencakup Self-Assessment (penilaian terhadap karya sendiri) dan Peer-Assessment (penilaian terhadap karya rekan mahasiswa).\nRekapitulasi skor kuantitatif dari Self-Assessment dan Peer-Assessment tersedia dalam format CSV di bawah ini, mengikuti template Lembar Skor.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
     ]
@@ -64,7 +64,7 @@
     "href": "My_Personal_Reviews/index.html#unduh-lembar-skor-lengkap",
     "title": "5  UTS-5 My Personal Reviews",
     "section": "",
-    "text": "Unduh Lembar Skor Lengkap (Self + Peer) (File ini akan dibuat nanti setelah penilaian)",
+    "text": "Unduh Lembar Skor Lengkap (Self + Peer)",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "My_Personal_Reviews/index.html#self-assessment-danendra-shafi-athallah---13523136",
     "title": "5  UTS-5 My Personal Reviews",
     "section": "5.2 1. Self-Assessment (Danendra Shafi Athallah - 13523136)",
-    "text": "5.2 1. Self-Assessment (Danendra Shafi Athallah - 13523136)\n(Bagian ini perlu diisi oleh Danendra setelah portofolionya lengkap. Dia perlu menilai UTS-1 s/d UTS-4 nya sendiri menggunakan rubrik, memberikan skor, alasan singkat, dan saran perbaikan untuk dirinya sendiri, mirip contoh portofolio Anda).\n\n5.2.1 1.1 Tinjauan Umum & Skor Ringkas\n\nUTS-1: … Skor: …\nUTS-2: … Skor: …\nUTS-3: … Skor: …\nUTS-4: … Skor: …\n\n\n\n5.2.2 1.2 Penilaian UTS-5 (Self-Assessment ini)\n\nSkor per kriteria: …\nAlasan singkat: …\n\n\n\n5.2.3 1.3 Saran Perbaikan untuk Diri Sendiri\n\n…",
+    "text": "5.2 1. Self-Assessment (Danendra Shafi Athallah - 13523136)\nBerikut adalah hasil penilaian terhadap portofolio saya sendiri (https://danenftyessir.github.io/all-about-me/).\n\n5.2.1 1.1 Tinjauan Umum & Skor Ringkas\n\nUTS-1 (All About Me): Memperkenalkan diri dengan fakta unik (takut sukses solo), hobi, dan prinsip hidup (pilihan PTN). Skor: 15/20 (75%).\nUTS-2 (My Songs for You): Menggunakan lagu Air Supply “I Can Wait Forever” dengan embed video dan narasi makna personal. Lirik tidak disertakan. Skor: 13/20 (65%).\nUTS-3 (My Stories for You): Menceritakan momen “Aha!” hari pertama sekolah dan pergeseran dari ego ke sosial. Skor: 18/20 (90%).\nUTS-4 (My SHAPE): Menyajikan analisis S-H-A-P-E (VIA, ENFJ-T, Values) dengan refleksi dan Piagam Diri. Bagian Aptitudes masih kosong. Skor: 19/20 (95%).\n\n\n\n5.2.2 1.2 Penilaian UTS-5 (Self-Assessment ini)\nSkor per kriteria: Pemahaman Konsep 5, Analisis Kritis 4, Argumentasi (Logos) 4, Etos & Empati 4, Rekomendasi 4 → Total 21/25 (84%). Alasan singkat: Telah berhasil melakukan Self-Assessment dan Peer-Assessment sesuai format, menunjukkan pemahaman konsep, analisis, dan memberikan rekomendasi.\n\n\n5.2.3 1.3 Saran Perbaikan untuk Diri Sendiri\n(Diambil dari file My_Personal_Reviews/index.qmd Danendra) 1. Lengkapi UTS-2: Tambahkan transkrip lirik lagu “I Can Wait Forever”. 2. Lengkapi UTS-4: Isi bagian Aptitudes (Bakat & Keterampilan).",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
     ]
@@ -84,7 +84,7 @@
     "href": "My_Personal_Reviews/index.html#peer-assessment",
     "title": "5  UTS-5 My Personal Reviews",
     "section": "5.3 2. Peer-Assessment",
-    "text": "5.3 2. Peer-Assessment\n(Bagian ini perlu diisi oleh Danendra setelah dia menilai portofolio 2-3 temannya. Dia perlu mencantumkan Nama/NIM teman, URL portofolio, tinjauan umum, kekuatan utama, skor rata-rata per UTS, dan saran perbaikan, mirip contoh portofolio Anda).\n\n5.3.1 2.1 Penilaian untuk: [Nama Teman 1] ([NIM Teman 1])\n\nURL Portofolio: …\nTinjauan Umum: …\nKekuatan Utama: …\nSkor Rata-Rata: …\nSaran Perbaikan: …\n\n\n\n5.3.2 2.2 Penilaian untuk: [Nama Teman 2] ([NIM Teman 2])\n\nURL Portofolio: …\n(dst…)\n\n\n\n5.3.3 2.3 Penilaian untuk: [Nama Teman 3] ([NIM Teman 3]) - Opsional\n\nURL Portofolio: …\n(dst…)",
+    "text": "5.3 2. Peer-Assessment\n(Diambil dari file My_Personal_Reviews/index.qmd Danendra)\n\n5.3.1 2.1 Penilaian untuk: M. Abizzar Gamadrian (13523155)\n\nURL Portofolio: https://abizzarg.github.io/all-about-me/\nTinjauan Umum: Portofolio secara keseluruhan sangat baik dan personal. Setiap bagian terasa otentik dan saling terhubung dengan baik, terutama melalui tema “staying down”.\nKekuatan Utama: Orisinalitas cerita (UTS-1, UTS-3), Kedalaman analisis diri (UTS-4), Kelengkapan konten (UTS-2).\nSkor Rata-Rata: UTS1: 4.75, UTS2: 3.75, UTS3: 5.0, UTS4: 5.0.\nSaran Perbaikan:\n\nUTS-2 (Humor): Skor humor rendah karena lagunya sentimental, ini wajar. Tidak ada saran perbaikan signifikan.\nUTS-4 (Visual): Mungkin bisa ditambahkan tabel ringkasan SHAPE untuk visualisasi cepat.\n\n\n\n\n5.3.2 2.2 Penilaian untuk: Oxana Viyory (18224103)\n\nURL Portofolio: https://oxanovijk.github.io/18224103-kominter/\nTinjauan Umum: Portofolio sangat rapi, naratif, dan visualnya menarik (foto-foto). Setiap bagian ditulis dengan mendalam dan mengalir dengan baik.\nKekuatan Utama: Keterlibatan pembaca (storytelling kuat), Kelengkapan dan kedalaman analisis (UTS-4), Inspirasi (UTS-2, UTS-3).\nSkor Rata-Rata: UTS1: 4.5, UTS2: 4.0, UTS3: 5.0, UTS4: 5.0.\nSaran Perbaikan:\n\nPortofolio sudah sangat baik. Mungkin bisa ditambahkan sedikit sentuhan humor ringan di UTS-1 jika memungkinkan, tapi ini sangat minor.\n\n\n\n\n5.3.3 2.3 Penilaian untuk: Alfiyyah Zahra W (13523028)\n\nURL Portofolio: https://fifiyy.github.io/all-about-me/\nTinjauan Umum: Portofolio menunjukkan kepribadian yang jelas melalui cerita hobi dan perjuangan masuk SMA. Analisis SHAPE juga cukup baik.\nKekuatan Utama: Keterlibatan (detail hobi di UTS-1), Keautentikan (UTS-4), Pengembangan Narasi (UTS-3).\nSkor Rata-Rata: UTS1: 3.75, UTS2: 3.25, UTS3: 4.25, UTS4: 4.5.\nSaran Perbaikan:\n\nUTS-2 (Kelengkapan): Sangat disarankan menambahkan lirik lagu “My Universe” agar pesannya bisa dinilai utuh dan skor Inspirasi bisa maksimal.\nUTS-1 & UTS-3 (Wawasan/Inspirasi): Tambahkan 1-2 kalimat refleksi di akhir cerita untuk memperkuat pesan/pelajaran yang didapat.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>UTS-5 My Personal Reviews</span>"
     ]
