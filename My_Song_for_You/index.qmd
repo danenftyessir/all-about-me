@@ -1,160 +1,60 @@
-# UTS-2 My Songs for You
+# UTS-2: Pesan untuk Masa Lalu (dan Sekarang)
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
+Jika saya bisa mengirim pesan ke diri saya di masa lalu—mungkin saat awal kuliah atau SMA—pesan utamanya sederhana: **"Enjoy aja"**. Nikmati prosesnya, hargai momennya, jangan terlalu khawatir tentang masa depan.
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
+Lagu yang paling mewakili perasaan ini, terutama tentang kesetiaan pada perjalanan dan orang-orang di dalamnya, adalah "I Can Wait Forever" oleh Air Supply.
 
-Engkau
-[Intro]
-[verse1]
-Mereka bilang perlu Ribuan kata 
-untuk menyatakan cinta. 
-Tapi satu-satunya kata yang kutemukan
- adalah: engkau…
+    
+    <iframe src="https://www.youtube.com/embed/PQO3xCGJghg" title="Air Supply - I Can Wait Forever (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
 
-[Verse 2]
-Hidup bergerak begitu deras 
-Siang malam datang dan pergi. 
-Mereka bilang semua itu 
-akan melunturkan cinta kita…
+### Makna di Balik Penantian
 
+Meskipun lirik lagu ini tentang cinta romantis, bagi saya, makna **"kesediaan untuk menunggu secara abadi"** lebih luas. Ini tentang **kesetiaan**—pada tujuan, pada proses, dan pada orang-orang yang berarti. Ini adalah cerminan nilai **Commitment** yang saya pegang.
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+Pesan ini untuk diri saya di masa lalu (dan pengingat untuk diri saya sekarang): Tidak apa-apa jika hasil tidak datang secepat yang diinginkan. Yang penting adalah **ketekunan** (kekuatan VIA #1 saya) dalam menunggu dan terus berusaha, sambil tetap menikmati perjalanan. (Target: **Inspirasi**)
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+Lirik Lagu by Musixmatch:
 
-[Verse4]
-Peristiwa menimpa seperti badai tercurah dari langit. 
-Menerjang seperti seretan sungai. 
-Melemparku ke dalam dan ke luar, ke atas dan ke bawah, 
-menghanyutkanku gelagapan ke samudera raya…
-
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
-
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-
-[Coda 1]
-Sadarkah engkau 
-bahwa engkau telah menemukan 
-hukum baru tentang cinta? 
-
-[Coda 2]
-Bahwa satu tambah satu sama dengan satu
-Satu kali satu adalah tak hingga? 
-Dua kurang satu sama dengan kosong. 
-Segala sesuatu tanpa engkau adalah tiada…?
-
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
-
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-[Outro]
-
-
-Why am I singing for you? [River on my Mind](./Rivers%20In%20My%20Mind.mp3)
-, with lyrics
-
-River on my mind
-[Verse]
-I do not know what has happened with your life
-I do not know how much you have suffered
-What I know is how to be me
-And I am still learning
-
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Verse]
-You deserve a caring heart
-And all of the most beautiful parts of this world
-You deserve a gentle touch
-And a soft place to land when you fall
-
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Bridge]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-
-Falling in love everyday [Heaven on Earth](./Heaven%20on%20Earth.mp3), with lyrics
-
-Heaven on Earth
-[Verse]
-The breeze whispers soft to the sea
-A rhythm flows like it’s meant to be
-Every step feels lighter
-Free
-
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-fresh
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-
-[Prechorus]
-Close your eyes
-Let it start
-Feel the world inside your heart
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Bridge]
-Catch the rain as it falls on your face
-Hear the laughter
-It fills every space
-Time is fleeting
-Don’t let it erase
-This heaven we chase
+| When you say, "I miss the things you do"
+| I just wanna get back close again to you
+| But for now, your voice is near enough
+| How I miss you, when I miss you, love
+| And though all the days that pass me by so slow
+| All the emptiness inside me flows all around
+| And there's no way out
+| I'm just thinkin' so much of you
+| There was never any doubt
+| I can wait forever
+| If you say you'll be there too
+| I can wait forever, if you will
+| I know it's worth it all
+| To spend my life alone with you
+| When it looked as though my life was wrong
+| You took my love and gave it somewhere to belong
+| I'll be here when hope is out of sight
+| I just wish that I was next to you tonight
+| And, oh, I'll be reaching for you even though
+| You'll be somewhere else, my love
+| We'll go like a bird on its way back home
+| I could never let you go
+| And I just want you to know
+| I can wait forever
+| If you say you'll be there too
+| I can wait forever, if you will
+| I know it's worth it all
+| To spend my life alone with you
+| Where are you now
+| Along with the thoughts we share?
+| Keep them strong, somehow
+| And you know I'll always be there
+| I can wait forever
+| If you say you'll be there too
+| I can wait forever, if you will
+| I know it's worth it all
+| To spend my life alone
+| I can wait forever
+| If you say you'll be there too
+| I can wait forever, if you will
+| I can wait forevermore
+| I can wait forever
