@@ -4,9 +4,7 @@ Jika saya bisa mengirim pesan ke diri saya di masa lalu—mungkin saat awal kuli
 
 Lagu yang paling mewakili perasaan ini, terutama tentang kesetiaan pada perjalanan dan orang-orang di dalamnya, adalah "I Can Wait Forever" oleh Air Supply.
 
-    
-    <iframe src="https://www.youtube.com/embed/PQO3xCGJghg" title="Air Supply - I Can Wait Forever (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    
+<iframe src="https://www.youtube.com/embed/PQO3xCGJghg" title="Air Supply - I Can Wait Forever (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Makna di Balik Penantian
 
